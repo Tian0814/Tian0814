@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tian0814
-- 👀 I’m interested in IT
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 📫 How to reach me 3307799376@qq.com
 
