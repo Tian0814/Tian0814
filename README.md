@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tian0814
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java,python,mysql,springboot
 - 📫 How to reach me 3307799376@qq.com
 
 <!---
